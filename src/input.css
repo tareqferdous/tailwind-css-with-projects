@@ -5,3 +5,7 @@
 .card {
   background-image: url("/images//bg.png");
 }
+
+.common_class {
+  @apply bg-white border-2 border-blue-500 rounded-xl p-4;
+}
